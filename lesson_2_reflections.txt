@@ -5,3 +5,6 @@ When I initalize a repository a hidden folder named .git is created within the r
 >How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging is a platform where the files that a required to be tracked in a repositroy are stored. It is dofferent from the working directory and the repository. The staging area gives me the freedom to choose what files are needed to be tracked.
+
+>How can you use the staging area to make sure you have one commit per logical change?
+Any logical change I make, by modifying the files, can be associated with a single commit by posting the modified files in the staging area and then commiting.
