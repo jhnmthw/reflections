@@ -1,0 +1,7 @@
+>What happens when you initialize a repository? Why do you need to do it?
+
+When I initalize a repository a hidden folder named .git is created within the repository folder. This folder contains the metadata required to track the changes i made to my repository. Intitializing the repository is necessary if I want to track my changes.
+
+>How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging is a platform where the files that a required to be tracked in a repositroy are stored. It is dofferent from the working directory and the repository. The staging area gives me the freedom to choose what files are needed to be tracked.
