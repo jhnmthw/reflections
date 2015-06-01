@@ -16,3 +16,6 @@ If i want to try out a new experimental feature, or if i want to explore more th
 >How do the diagrams help you visualize the branch structure?
 
 Diagrams help to visualize the entire commit history of my work. Without diagrams, I would not be able to view precicely what changes i've made and where. Having a diagram help me identify which commits are reachable.  
+
+>What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging helps us to incoporaten any changes we want to make without breaking it. After we have made sure that the experimental version we are working on is stable we can merge it into the main branch. Hence we can add new features. The diagram help to visualize how the structure is.
