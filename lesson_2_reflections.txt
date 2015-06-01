@@ -19,3 +19,15 @@ Diagrams help to visualize the entire commit history of my work. Without diagram
 
 >What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging helps us to incoporaten any changes we want to make without breaking it. After we have made sure that the experimental version we are working on is stable we can merge it into the main branch. Hence we can add new features. The diagram help to visualize how the structure is.
+
+>What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+ 
+Pros:
+
+-The user need to interfere in the merging process. 
+-Git can aoutomatically choose which parts of code to be merged.
+
+Cons:
+
+-Whnen conflicts occur the user need to resolve them
+-Causes illogical code.
