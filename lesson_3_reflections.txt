@@ -16,3 +16,7 @@ So that we may be aware of the master of origin even though we are offline.
 >How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Without github i would have to collaborate with my collegues by calling them. It would be more harder if i didnt use github.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Making seperate changes in a seoarate branch ensure that i always have a working code with me all the time. I do not have to deal with the fear that i have broken everything. I can experiment peacefully on my prohect. We can make changes on the master branch if our project is small.
